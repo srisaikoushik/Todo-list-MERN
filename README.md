@@ -20,9 +20,11 @@ data folder, we can access the following data through nodejs server.
 next open two different terminals in server and client folder and run <code>npm start</code>, this will serve up the webpage.
 
 ### Snippets of webpage
-for adding tasks to webpage, simply type it in the input, and press add button
+* for adding tasks to webpage, simply type it in the input, and press add button
 ![screencapture-localhost-3000-2022-07-18-00_38_38](https://user-images.githubusercontent.com/76170871/179421422-6b854ff9-b4a1-410a-aaa3-19562065a548.png) 
-for updating the already added tasks, simply click the update button and edit the content in the input bar.
-![screencapture-localhost-3000-2022-07-18-00_39_23](https://user-images.githubusercontent.com/76170871/179421668-1fe40e86-dd01-40b9-ba09-2018c682f15f.png)
-for deleting the content, you can simply click the delete button.
+* for updating the already added tasks, simply click the update button and edit the content in the input bar.
+![screencapture-localhost-3000-2022-07-18-00_39_50](https://user-images.githubusercontent.com/76170871/179562591-8a3070df-4c9e-49bf-b852-a90d28b810ec.png)
+* for deleting the content, you can simply click the delete button.
+
+### References
 
